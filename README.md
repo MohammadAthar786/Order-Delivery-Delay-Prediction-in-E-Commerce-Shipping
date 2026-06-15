@@ -307,23 +307,23 @@ Recommended screenshots:
 
 ### 1. Dataset Loading Summary
 
-![alt text](<Screenshot 2026-06-15 201326.png>)
+![Dataset loading summary](<Screenshots/Screenshot 2026-06-15 201326.png>)
 
 ### 2. Missing Values / Data Cleaning
 
-![alt text](<Screenshot 2026-06-15 201519.png>)
+![Missing values and data cleaning checks](<Screenshots/Screenshot 2026-06-15 201519.png>)
 
 ### 3. Delivery Delay Distribution
 
-c:\Users\mohda\OneDrive\Desktop\Olist Project\Screenshots\eda_target_distribution.png
+![Delivery delay distribution](Screenshots/eda_target_distribution.png)
 
 ### 4. Cardinality Analysis
 
-![alt text](<Screenshot 2026-06-15 195738.png>)
+![Cardinality analysis](<Screenshots/Screenshot 2026-06-15 195738.png>)
 
 ### 5. Feature Engineering Output
 
-![alt text](<Screenshot 2026-06-15 200629.png>)
+![Feature engineering output](<Screenshots/Screenshot 2026-06-15 200629.png>)
 
 ### 6. CatBoost Regression Results
 
@@ -333,16 +333,16 @@ Add a screenshot showing:
 - RMSE
 - R2 score
 
-![alt text](<Screenshot 2026-06-15 200920.png>)
+![CatBoost regression results](<Screenshots/Screenshot 2026-06-15 200920.png>)
 
-![alt text](<Screenshot 2026-06-15 201134.png>)
+![CatBoost classification results](<Screenshots/Screenshot 2026-06-15 201134.png>)
 
 Other images :
-![alt text](<Screenshot 2026-06-15 200707.png>)
+![Additional feature engineering output](<Screenshots/Screenshot 2026-06-15 200707.png>)
 
-![alt text](<Screenshot 2026-06-15 200655.png>)
+![Additional model output](<Screenshots/Screenshot 2026-06-15 200655.png>)
 
-![alt text](<Screenshot 2026-06-15 200717.png>)
+![Additional evaluation output](<Screenshots/Screenshot 2026-06-15 200717.png>)
 
 ## How To Run
 
