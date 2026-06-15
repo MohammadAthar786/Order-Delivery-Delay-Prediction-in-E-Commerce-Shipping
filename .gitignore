@@ -1,0 +1,38 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Python/Conda environments
+.venv/
+venv/
+env/
+ENV/
+.conda/
+conda/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Raw data and generated artifacts
+
+artifact/
+catboost_info/
+data/
+/notebook
+
+
+# Local secrets/config
+.env
+
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Temporary Conda solver output accidentally created in the project root
+2.0
+2.9
